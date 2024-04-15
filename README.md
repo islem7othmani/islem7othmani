@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Islem</h1>
 <h3 align="center">A software engineering student</h3>
 
+  [![HitCount](https://hits.dwyl.com/islem7othmani/islem7othmani.svg?style=flat-square)](http://hits.dwyl.com/islem7othmani/islem7othmani)
+
+
 - 🔭 I’m currently working on **MERN stack projects**
 
 - 🌱 I’m currently learning **web pentesting**
